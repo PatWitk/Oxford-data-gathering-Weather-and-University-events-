@@ -3,7 +3,7 @@ This data is exported as two seperate CSVs and used in PowerBI to make the follo
 
 (The 'Events per day and peak temperature' visual is done to show a PowerBi relationship between two seperate tables)
 
-<img width="800" height="450" alt="Oxford events and weather gif" src="https://github.com/user-attachments/assets/812865a7-e63c-4400-ac91-1c10f411b6d4" />
+<img width="800" height="450" alt="Oxford weather and events gif" src="https://github.com/user-attachments/assets/3b7371b1-8d1e-4a5d-8823-efc7434948a3" />
 
 <img width="1449" height="812" alt="image" src="https://github.com/user-attachments/assets/01fa8349-bfb1-438f-922c-e2c98235f37b" />
 
